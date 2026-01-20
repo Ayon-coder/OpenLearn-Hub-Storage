@@ -2,5 +2,13 @@
   "userId": "A55RiEE855opqeDtWhAz",
   "uploads": [],
   "downloads": [],
-  "createdAt": "2026-01-20T18:29:57.427Z"
+  "createdAt": "2026-01-20T18:29:57.427Z",
+  "subscriptions": [
+    {
+      "id": "sub_1768933836941_8ucnzmjid",
+      "userId": "A55RiEE855opqeDtWhAz",
+      "creatorId": "creator_arjun_kapoor",
+      "followedAt": "2026-01-20T18:30:36.941Z"
+    }
+  ]
 }
