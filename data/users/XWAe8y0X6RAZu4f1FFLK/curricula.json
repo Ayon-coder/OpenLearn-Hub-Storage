@@ -1,0 +1,253 @@
+[
+  {
+    "id": "curriculum_1768927730924_eudouor91",
+    "userId": "XWAe8y0X6RAZu4f1FFLK",
+    "formData": {
+      "learning_goal": "Machine Learning",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Fundamentals"
+      ],
+      "prior_knowledge": "basics of machine learning",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Machine Learning",
+        "complexity_level": "Medium"
+      },
+      "student_profile": {
+        "summary": "The student wants to learn the fundamentals of Machine Learning.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts in Machine Learning",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "ml_basics",
+              "title": "Introduction to Machine Learning",
+              "description": "Basic concepts and terminology of Machine Learning",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "machine-learning-basics",
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "machine learning",
+                  "basics",
+                  "intro"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Introduction%20to%20Machine%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Introduction%20to%20Machine%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Introduction%20to%20Machine%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand the basics of Machine Learning",
+                "Learn key terminology"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Machine Learning?",
+                  "options": [
+                    "A type of AI",
+                    "A type of data analysis"
+                  ],
+                  "correct_answer": "A type of AI",
+                  "explanation": "..."
+                }
+              ]
+            },
+            {
+              "course_id": "python_for_ml",
+              "title": "Python for Machine Learning",
+              "description": "Python basics for Machine Learning",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "python-for-ml",
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "python",
+                  "machine learning"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Python%20for%20Machine%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Python%20for%20Machine%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Python%20for%20Machine%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Learn Python basics",
+                "Understand how to apply Python in Machine Learning"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is the best Python library for Machine Learning?",
+                  "options": [
+                    "NumPy",
+                    "scikit-learn"
+                  ],
+                  "correct_answer": "scikit-learn",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Practical implementation of Machine Learning algorithms",
+          "total_estimated_hours": 60,
+          "courses": [
+            {
+              "course_id": "supervised_learning",
+              "title": "Supervised Learning",
+              "description": "Implementation of supervised learning algorithms",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "supervised-learning",
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "supervised learning",
+                  "machine learning"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Supervised%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Supervised%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Supervised%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Implement supervised learning algorithms",
+                "Understand evaluation metrics"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is the difference between classification and regression?",
+                  "options": [
+                    "Classification is for categorical data",
+                    "Regression is for numerical data"
+                  ],
+                  "correct_answer": "Classification is for categorical data",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Specialized topics in Machine Learning",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "deep_learning",
+              "title": "Deep Learning",
+              "description": "Introduction to deep learning techniques",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "deep-learning",
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "deep learning",
+                  "neural networks"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Deep%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Deep%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Deep%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand deep learning concepts",
+                "Implement simple neural networks"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a Convolutional Neural Network?",
+                  "options": [
+                    "A type of neural network for images",
+                    "A type of neural network for text"
+                  ],
+                  "correct_answer": "A type of neural network for images",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "createdAt": "2026-01-20T16:48:50.924Z",
+    "updatedAt": "2026-01-20T16:48:50.924Z"
+  }
+]
