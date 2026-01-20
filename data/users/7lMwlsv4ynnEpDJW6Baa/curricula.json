@@ -1,0 +1,350 @@
+[
+  {
+    "id": "curriculum_1768926925441_b17ao8hwt",
+    "userId": "7lMwlsv4ynnEpDJW6Baa",
+    "formData": {
+      "learning_goal": "Data Science",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Python"
+      ],
+      "prior_knowledge": "Numpy",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "video-heavy"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Data Science",
+        "subtopics": [
+          "data-analysis",
+          "machine-learning",
+          "data-visualization",
+          "python-programming"
+        ],
+        "exam_specific": false,
+        "exam_name": "none",
+        "complexity_level": "Medium"
+      },
+      "student_profile": {
+        "summary": "The student aims to learn Data Science with a focus on Python, having basic knowledge of Numpy. They are a beginner looking to get a job in the field.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 16,
+        "weekly_hours": 10,
+        "special_notes": "Focus on practical implementation and project building."
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational knowledge in Data Science with Python",
+          "total_estimated_hours": 40,
+          "tier_relevance": "Essential for understanding Data Science concepts and tools.",
+          "courses": [
+            {
+              "course_id": "ds-beginner-python",
+              "title": "Python for Data Science",
+              "description": "Learn Python basics and its application in Data Science",
+              "matching_criteria": {
+                "topic_slug": "python-for-data-science",
+                "subtopic_slugs": [
+                  "python-basics",
+                  "data-structures",
+                  "file-handling"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "python",
+                  "data-science",
+                  "numpy",
+                  "pandas"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 1,
+              "estimated_hours": 8,
+              "expected_video_count": 5,
+              "prerequisite_courses": [],
+              "learning_outcomes": [
+                "Understand Python basics",
+                "Implement data structures in Python",
+                "Work with files and data in Python"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is the difference between static and dynamic typing in Python?",
+                  "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ],
+                  "correct_answer": "B",
+                  "explanation": "Static typing checks the type at compile time, while dynamic typing checks at runtime.",
+                  "difficulty": "easy",
+                  "question_type": "conceptual"
+                }
+              ],
+              "practice_problems": {
+                "recommended_count": 10,
+                "difficulty_distribution": {
+                  "easy": 5,
+                  "medium": 3,
+                  "hard": 2
+                },
+                "problem_types": [
+                  "coding",
+                  "conceptual"
+                ]
+              }
+            },
+            {
+              "course_id": "ds-beginner-data-analysis",
+              "title": "Data Analysis with Pandas",
+              "description": "Learn data analysis using Pandas library in Python",
+              "matching_criteria": {
+                "topic_slug": "data-analysis-with-pandas",
+                "subtopic_slugs": [
+                  "pandas-basics",
+                  "data-cleaning",
+                  "data-visualization"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "pandas",
+                  "data-analysis",
+                  "data-science"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 2,
+              "estimated_hours": 8,
+              "expected_video_count": 5,
+              "prerequisite_courses": [
+                "ds-beginner-python"
+              ],
+              "learning_outcomes": [
+                "Understand Pandas library",
+                "Clean and preprocess data",
+                "Visualize data using Pandas"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "How do you handle missing values in a Pandas DataFrame?",
+                  "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ],
+                  "correct_answer": "C",
+                  "explanation": "Using fillna() or dropna() methods.",
+                  "difficulty": "easy",
+                  "question_type": "conceptual"
+                }
+              ],
+              "practice_problems": {
+                "recommended_count": 10,
+                "difficulty_distribution": {
+                  "easy": 5,
+                  "medium": 3,
+                  "hard": 2
+                },
+                "problem_types": [
+                  "data-analysis",
+                  "visualization"
+                ]
+              }
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Advanced topics in Data Science with Python",
+          "total_estimated_hours": 50,
+          "tier_relevance": "Builds on foundational knowledge to implement complex Data Science concepts.",
+          "courses": [
+            {
+              "course_id": "ds-intermediate-machine-learning",
+              "title": "Machine Learning with Scikit-Learn",
+              "description": "Learn machine learning algorithms and their implementation in Python",
+              "matching_criteria": {
+                "topic_slug": "machine-learning-with-scikit-learn",
+                "subtopic_slugs": [
+                  "supervised-learning",
+                  "unsupervised-learning",
+                  "model-evaluation"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "machine-learning",
+                  "scikit-learn",
+                  "python"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 1,
+              "estimated_hours": 10,
+              "expected_video_count": 7,
+              "prerequisite_courses": [
+                "ds-beginner-python",
+                "ds-beginner-data-analysis"
+              ],
+              "learning_outcomes": [
+                "Understand machine learning basics",
+                "Implement supervised and unsupervised learning algorithms",
+                "Evaluate model performance"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is the difference between supervised and unsupervised learning?",
+                  "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ],
+                  "correct_answer": "A",
+                  "explanation": "Supervised learning uses labeled data, while unsupervised learning uses unlabeled data.",
+                  "difficulty": "medium",
+                  "question_type": "conceptual"
+                }
+              ],
+              "practice_problems": {
+                "recommended_count": 15,
+                "difficulty_distribution": {
+                  "easy": 5,
+                  "medium": 5,
+                  "hard": 5
+                },
+                "problem_types": [
+                  "algorithm-implementation",
+                  "model-tuning"
+                ]
+              }
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Expert topics in Data Science with Python",
+          "total_estimated_hours": 45,
+          "tier_relevance": "Covers specialized and complex topics in Data Science.",
+          "courses": [
+            {
+              "course_id": "ds-advanced-deep-learning",
+              "title": "Deep Learning with TensorFlow",
+              "description": "Learn deep learning concepts and their implementation using TensorFlow",
+              "matching_criteria": {
+                "topic_slug": "deep-learning-with-tensorflow",
+                "subtopic_slugs": [
+                  "neural-networks",
+                  "cnn",
+                  "rnn"
+                ],
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "deep-learning",
+                  "tensorflow",
+                  "python"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 1,
+              "estimated_hours": 12,
+              "expected_video_count": 8,
+              "prerequisite_courses": [
+                "ds-intermediate-machine-learning"
+              ],
+              "learning_outcomes": [
+                "Understand deep learning basics",
+                "Implement neural networks",
+                "Work with CNNs and RNNs"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is the purpose of an activation function in a neural network?",
+                  "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ],
+                  "correct_answer": "C",
+                  "explanation": "To introduce non-linearity in the model.",
+                  "difficulty": "hard",
+                  "question_type": "conceptual"
+                }
+              ],
+              "practice_problems": {
+                "recommended_count": 20,
+                "difficulty_distribution": {
+                  "easy": 5,
+                  "medium": 7,
+                  "hard": 8
+                },
+                "problem_types": [
+                  "model-implementation",
+                  "project-based"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "exam_strategy": {},
+      "progress_milestones": [
+        {
+          "milestone_name": "Python for Data Science",
+          "tier": "beginner",
+          "percentage": 20,
+          "courses_completed": 1,
+          "skills_unlocked": [
+            "Python basics",
+            "Data structures"
+          ],
+          "exam_readiness": ""
+        },
+        {
+          "milestone_name": "Data Analysis with Pandas",
+          "tier": "beginner",
+          "percentage": 40,
+          "courses_completed": 2,
+          "skills_unlocked": [
+            "Data cleaning",
+            "Data visualization"
+          ],
+          "exam_readiness": ""
+        }
+      ],
+      "resource_recommendations": {},
+      "success_metrics": {
+        "for_skills": {
+          "beginner_completion": "Can implement basic data analysis projects",
+          "intermediate_completion": "Can build machine learning models",
+          "advanced_completion": "Can design and implement complex data science projects"
+        },
+        "for_exams": {}
+      }
+    },
+    "createdAt": "2026-01-20T16:35:25.441Z",
+    "updatedAt": "2026-01-20T16:35:25.441Z"
+  }
+]
