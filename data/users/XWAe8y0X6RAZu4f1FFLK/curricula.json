@@ -1,5 +1,174 @@
 [
   {
+    "id": "curriculum_1768927795166_pw5146k9k",
+    "userId": "XWAe8y0X6RAZu4f1FFLK",
+    "formData": {
+      "learning_goal": "Web Development",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "React"
+      ],
+      "prior_knowledge": "Basics of html css js",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Web Development",
+        "complexity_level": "Low"
+      },
+      "student_profile": {
+        "summary": "The student is a beginner looking to learn Web Development with a focus on React.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "web_dev_beginner_1",
+              "title": "React Hooks Complete Tutorial",
+              "description": "Learn React Hooks with this complete tutorial.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "react-hooks",
+                "subtopic_slugs": [
+                  "React",
+                  "Hooks"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "React",
+                  "Hooks",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_1",
+                "validation_status": "available",
+                "matched_content_title": "React Hooks Complete Tutorial",
+                "content_url": "/notes/web_1"
+              },
+              "learning_outcomes": [
+                "Understand React Hooks",
+                "Build a simple React application"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a React Hook?",
+                  "options": [
+                    "A function that allows you to use state in functional components",
+                    "A class component"
+                  ],
+                  "correct_answer": "A",
+                  "explanation": "React Hooks are functions that allow you to use state and other React features in functional components."
+                }
+              ]
+            },
+            {
+              "course_id": "web_dev_beginner_2",
+              "title": "CSS Flexbox & Grid Masterclass",
+              "description": "Learn CSS Flexbox and Grid with this masterclass.",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "css-flexbox-grid",
+                "subtopic_slugs": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_3",
+                "validation_status": "available",
+                "matched_content_title": "CSS Flexbox & Grid Masterclass",
+                "content_url": "/notes/web_3"
+              },
+              "learning_outcomes": [
+                "Understand CSS Flexbox and Grid",
+                "Build a responsive web page"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is CSS Flexbox?",
+                  "options": [
+                    "A layout mode that allows you to layout elements in a flexible way",
+                    "A styling language"
+                  ],
+                  "correct_answer": "A",
+                  "explanation": "CSS Flexbox is a layout mode that allows you to layout elements in a flexible way."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Intermediate concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "web_dev_intermediate_1",
+              "title": "Next.js 14 Crash Course",
+              "description": "Learn Next.js 14 with this crash course.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "nextjs-14",
+                "subtopic_slugs": [
+                  "Next.js",
+                  "React"
+                ],
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "Next.js",
+                  "React",
+                  "Full Stack",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_2",
+                "validation_status": "available",
+                "matched_content_title": "Next.js 14 Crash Course",
+                "content_url": "/notes/web_2"
+              },
+              "learning_outcomes": [
+                "Understand Next.js 14",
+                "Build a full-stack application with Next.js"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Next.js?",
+                  "options": [
+                    "A React-based framework for building server-side rendered and statically generated websites and applications",
+                    "A styling language"
+                  ],
+                  "correct_answer": "A",
+                  "explanation": "Next.js is a React-based framework for building server-side rendered and statically generated websites and applications."
+                }
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Advanced concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": []
+        }
+      }
+    },
+    "createdAt": "2026-01-20T16:49:55.166Z",
+    "updatedAt": "2026-01-20T16:49:55.166Z"
+  },
+  {
     "id": "curriculum_1768927730924_eudouor91",
     "userId": "XWAe8y0X6RAZu4f1FFLK",
     "formData": {
