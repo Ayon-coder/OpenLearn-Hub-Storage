@@ -1,0 +1,273 @@
+[
+  {
+    "id": "curriculum_1768926283575_5bok5buv2",
+    "userId": "7lMwlsv4ynnEpDJW6Baa",
+    "formData": {
+      "learning_goal": "Web Development",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Authentication"
+      ],
+      "prior_knowledge": "Basics Html",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Web Development",
+        "subtopics": [
+          "frontend-development",
+          "backend-development",
+          "full-stack-development",
+          "web-security",
+          "authentication"
+        ],
+        "exam_specific": false,
+        "exam_name": "none",
+        "complexity_level": "Medium"
+      },
+      "student_profile": {
+        "summary": "The student aims to learn Web Development with a focus on Authentication, starting from a beginner level with basic HTML knowledge. Their goal is to become job-ready.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 16,
+        "weekly_hours": 10,
+        "special_notes": "Prior knowledge of basic HTML will be helpful. Focus on practical projects and building a portfolio."
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational skills in Web Development, including HTML, CSS, JavaScript, and basic backend concepts.",
+          "total_estimated_hours": 40,
+          "tier_relevance": "Essential for building a strong foundation in Web Development",
+          "courses": [
+            {
+              "course_id": "wd_1",
+              "title": "HTML, CSS, and JavaScript Basics",
+              "description": "Learn the basics of HTML, CSS, and JavaScript to build a solid foundation in web development.",
+              "matching_criteria": {
+                "topic_slug": "web-development-basics",
+                "subtopic_slugs": [
+                  "html",
+                  "css",
+                  "javascript"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "web development",
+                  "frontend",
+                  "basics"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922445029_qk9smgtzo",
+                "matched_content_title": " b",
+                "content_url": "/notes/community_1768922445029_qk9smgtzo"
+              },
+              "position": 1,
+              "estimated_hours": 8,
+              "expected_video_count": 5,
+              "prerequisite_courses": [],
+              "learning_outcomes": [
+                "Build a simple web page using HTML, CSS, and JavaScript",
+                "Understand basic web development concepts"
+              ]
+            },
+            {
+              "course_id": "wd_2",
+              "title": "Introduction to Backend Development",
+              "description": "Learn the basics of backend development, including server-side programming and database concepts.",
+              "matching_criteria": {
+                "topic_slug": "backend-development-basics",
+                "subtopic_slugs": [
+                  "server-side-programming",
+                  "database-concepts"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "backend",
+                  "server-side",
+                  "database"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922445029_qk9smgtzo",
+                "matched_content_title": " b",
+                "content_url": "/notes/community_1768922445029_qk9smgtzo"
+              },
+              "position": 2,
+              "estimated_hours": 8,
+              "expected_video_count": 5,
+              "prerequisite_courses": [
+                "wd_1"
+              ],
+              "learning_outcomes": [
+                "Understand server-side programming concepts",
+                "Learn basic database concepts"
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Advanced skills in Web Development, including frontend frameworks, backend frameworks, and web security.",
+          "total_estimated_hours": 50,
+          "tier_relevance": "Crucial for building complex web applications and becoming job-ready",
+          "courses": [
+            {
+              "course_id": "wd_3",
+              "title": "Frontend Frameworks (React or Angular)",
+              "description": "Learn a frontend framework to build complex and scalable web applications.",
+              "matching_criteria": {
+                "topic_slug": "frontend-frameworks",
+                "subtopic_slugs": [
+                  "react",
+                  "angular"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "frontend",
+                  "framework",
+                  "react",
+                  "angular"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 1,
+              "estimated_hours": 10,
+              "expected_video_count": 7,
+              "prerequisite_courses": [
+                "wd_1",
+                "wd_2"
+              ],
+              "learning_outcomes": [
+                "Build a complex web application using a frontend framework",
+                "Understand state management and component lifecycle"
+              ]
+            },
+            {
+              "course_id": "wd_4",
+              "title": "Web Security and Authentication",
+              "description": "Learn web security concepts and authentication techniques to build secure web applications.",
+              "matching_criteria": {
+                "topic_slug": "web-security-authentication",
+                "subtopic_slugs": [
+                  "web-security",
+                  "authentication"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "web security",
+                  "authentication",
+                  "authorization"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922053099_v831uyle8",
+                "matched_content_title": "s",
+                "content_url": "/notes/community_1768922053099_v831uyle8"
+              },
+              "position": 2,
+              "estimated_hours": 10,
+              "expected_video_count": 7,
+              "prerequisite_courses": [
+                "wd_3"
+              ],
+              "learning_outcomes": [
+                "Understand web security threats and vulnerabilities",
+                "Implement authentication and authorization techniques"
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Expert-level skills in Web Development, including full-stack development, performance optimization, and deployment.",
+          "total_estimated_hours": 45,
+          "tier_relevance": "Essential for becoming a full-stack web developer and leading projects",
+          "courses": [
+            {
+              "course_id": "wd_5",
+              "title": "Full-Stack Development",
+              "description": "Learn to build full-stack web applications using a combination of frontend and backend technologies.",
+              "matching_criteria": {
+                "topic_slug": "full-stack-development",
+                "subtopic_slugs": [
+                  "full-stack",
+                  "mern-stack"
+                ],
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "full-stack",
+                  "mern-stack",
+                  "web development"
+                ],
+                "domain": "computer-science",
+                "exam_context": "none",
+                "validation_status": "available",
+                "matched_content_id": "community_1768922785858_unnm9lrfi",
+                "matched_content_title": "Stack",
+                "content_url": "/notes/community_1768922785858_unnm9lrfi"
+              },
+              "position": 1,
+              "estimated_hours": 12,
+              "expected_video_count": 8,
+              "prerequisite_courses": [
+                "wd_3",
+                "wd_4"
+              ],
+              "learning_outcomes": [
+                "Build a full-stack web application using a MERN stack",
+                "Understand the importance of full-stack development"
+              ]
+            }
+          ]
+        }
+      },
+      "exam_strategy": {},
+      "progress_milestones": [
+        {
+          "milestone_name": "Foundations Complete",
+          "tier": "beginner",
+          "percentage": 30,
+          "courses_completed": 2,
+          "skills_unlocked": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Backend basics"
+          ],
+          "exam_readiness": ""
+        },
+        {
+          "milestone_name": "Frontend Mastery",
+          "tier": "intermediate",
+          "percentage": 60,
+          "courses_completed": 4,
+          "skills_unlocked": [
+            "React or Angular",
+            "Web Security",
+            "Authentication"
+          ],
+          "exam_readiness": ""
+        }
+      ],
+      "resource_recommendations": {},
+      "success_metrics": {
+        "for_skills": {
+          "beginner_completion": "Can build simple web pages and understand basic backend concepts",
+          "intermediate_completion": "Can build complex web applications using a frontend framework and understand web security",
+          "advanced_completion": "Job-ready as a full-stack web developer"
+        }
+      }
+    },
+    "createdAt": "2026-01-20T16:24:43.575Z",
+    "updatedAt": "2026-01-20T16:24:43.575Z"
+  }
+]
