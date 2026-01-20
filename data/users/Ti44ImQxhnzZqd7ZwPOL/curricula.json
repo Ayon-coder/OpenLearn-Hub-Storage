@@ -1,0 +1,176 @@
+[
+  {
+    "id": "curriculum_1768933346490_1c0dpphxg",
+    "userId": "Ti44ImQxhnzZqd7ZwPOL",
+    "formData": {
+      "learning_goal": "Web Development",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "React"
+      ],
+      "prior_knowledge": "Basics of html",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Web Development",
+        "complexity_level": "Low"
+      },
+      "student_profile": {
+        "summary": "The student is a beginner looking to learn Web Development with a focus on React.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "unique_id_1",
+              "title": "React Hooks Complete Tutorial",
+              "description": "Learn React Hooks with this complete tutorial.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "react-hooks",
+                "subtopic_slugs": [
+                  "React",
+                  "Hooks"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "React",
+                  "Hooks",
+                  "Frontend",
+                  "JavaScript",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_1",
+                "validation_status": "available",
+                "matched_content_title": "React Hooks Complete Tutorial",
+                "content_url": "/notes/web_1"
+              },
+              "learning_outcomes": [
+                "Understand React Hooks",
+                "Build a React application"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a React Hook?",
+                  "options": [
+                    "A function that uses state",
+                    "A class component"
+                  ],
+                  "correct_answer": "A function that uses state",
+                  "explanation": "..."
+                }
+              ]
+            },
+            {
+              "course_id": "unique_id_2",
+              "title": "CSS Flexbox & Grid Masterclass",
+              "description": "Learn CSS Flexbox and Grid with this masterclass.",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "css-flexbox-grid",
+                "subtopic_slugs": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid",
+                  "Web Design",
+                  "Frontend"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_3",
+                "validation_status": "available",
+                "matched_content_title": "CSS Flexbox & Grid Masterclass",
+                "content_url": "/notes/web_3"
+              },
+              "learning_outcomes": [
+                "Understand CSS Flexbox",
+                "Understand CSS Grid"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Flexbox?",
+                  "options": [
+                    "A layout mode",
+                    "A styling technique"
+                  ],
+                  "correct_answer": "A layout mode",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Intermediate concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "unique_id_3",
+              "title": "Next.js 14 Crash Course",
+              "description": "Learn Next.js 14 with this crash course.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "nextjs-14",
+                "subtopic_slugs": [
+                  "Next.js",
+                  "React",
+                  "Full Stack"
+                ],
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "Next.js",
+                  "React",
+                  "Full Stack",
+                  "Tailwind",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_2",
+                "validation_status": "available",
+                "matched_content_title": "Next.js 14 Crash Course",
+                "content_url": "/notes/web_2"
+              },
+              "learning_outcomes": [
+                "Understand Next.js 14",
+                "Build a Next.js application"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Next.js?",
+                  "options": [
+                    "A React framework",
+                    "A Node.js framework"
+                  ],
+                  "correct_answer": "A React framework",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Advanced concepts in Web Development with React",
+          "total_estimated_hours": 40,
+          "courses": []
+        }
+      }
+    },
+    "createdAt": "2026-01-20T18:22:26.490Z",
+    "updatedAt": "2026-01-20T18:22:26.490Z"
+  }
+]
