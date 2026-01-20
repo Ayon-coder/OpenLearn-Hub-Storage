@@ -1,5 +1,133 @@
 [
   {
+    "id": "curriculum_1768931215467_y8vaohluk",
+    "userId": "XWAe8y0X6RAZu4f1FFLK",
+    "formData": {
+      "learning_goal": "Web develpment",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Fundamentals"
+      ],
+      "prior_knowledge": "Basics of html",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Web Development",
+        "complexity_level": "Low"
+      },
+      "student_profile": {
+        "summary": "The student is a beginner looking to learn the fundamentals of web development.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts of web development",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "unique_id_1",
+              "title": "React Hooks Complete Tutorial",
+              "description": "Learn React Hooks for building dynamic user interfaces.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "react-hooks",
+                "subtopic_slugs": [
+                  "React",
+                  "Hooks",
+                  "Frontend"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "React",
+                  "Hooks",
+                  "Web Development"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_1",
+                "validation_status": "available",
+                "matched_content_title": "React Hooks Complete Tutorial",
+                "content_url": "/notes/web_1"
+              },
+              "learning_outcomes": [
+                "Understand React Hooks",
+                "Build dynamic UI components"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a React Hook?",
+                  "options": [
+                    "A function that manages state",
+                    "A class component"
+                  ],
+                  "correct_answer": "A function that manages state",
+                  "explanation": "..."
+                }
+              ]
+            },
+            {
+              "course_id": "unique_id_2",
+              "title": "CSS Flexbox & Grid Masterclass",
+              "description": "Master CSS Flexbox and Grid for responsive web design.",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "css-flexbox-grid",
+                "subtopic_slugs": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid",
+                  "Web Design"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "CSS",
+                  "Flexbox",
+                  "Grid",
+                  "Frontend"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_3",
+                "validation_status": "available",
+                "matched_content_title": "CSS Flexbox & Grid Masterclass",
+                "content_url": "/notes/web_3"
+              },
+              "learning_outcomes": [
+                "Understand CSS Flexbox",
+                "Understand CSS Grid"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Flexbox?",
+                  "options": [
+                    "A layout mode",
+                    "A styling technique"
+                  ],
+                  "correct_answer": "A layout mode",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Building on the foundational concepts",
+          "courses": []
+        },
+        "advanced": {
+          "tier_description": "Advanced topics in web development",
+          "courses": []
+        }
+      }
+    },
+    "createdAt": "2026-01-20T17:46:55.467Z",
+    "updatedAt": "2026-01-20T17:46:55.467Z"
+  },
+  {
     "id": "curriculum_1768927795166_pw5146k9k",
     "userId": "XWAe8y0X6RAZu4f1FFLK",
     "formData": {
