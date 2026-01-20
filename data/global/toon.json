@@ -1,15 +1,32 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-01-20T18:32:13.710Z",
-  "totalAvailable": 24,
+  "lastUpdated": "2026-01-20T18:37:52.190Z",
+  "totalAvailable": 25,
   "categories": [
     {
       "name": "Community",
       "subcategories": [
         {
           "name": "General",
-          "contentCount": 8,
+          "contentCount": 9,
           "contents": [
+            {
+              "id": "community_1768934259016_s0jgonjrp",
+              "title": "DFS",
+              "description": "Community Contribution",
+              "category": "Community",
+              "subcategory": "General",
+              "topic": "Uploads",
+              "level": "Beginner",
+              "tags": [
+                "Community",
+                "Upload"
+              ],
+              "uploadedBy": "D.K Maity",
+              "hasVideo": false,
+              "views": 0,
+              "likes": 0
+            },
             {
               "id": "community_1768933906138_srca67hng",
               "title": "B + Tree",
@@ -607,6 +624,23 @@
     }
   ],
   "allContents": [
+    {
+      "id": "community_1768934259016_s0jgonjrp",
+      "title": "DFS",
+      "description": "Community Contribution",
+      "category": "Community",
+      "subcategory": "General",
+      "topic": "Uploads",
+      "level": "Beginner",
+      "tags": [
+        "Community",
+        "Upload"
+      ],
+      "uploadedBy": "D.K Maity",
+      "hasVideo": false,
+      "views": 0,
+      "likes": 0
+    },
     {
       "id": "community_1768933906138_srca67hng",
       "title": "B + Tree",
