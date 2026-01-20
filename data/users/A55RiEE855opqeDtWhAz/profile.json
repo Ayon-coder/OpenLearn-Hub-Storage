@@ -2,6 +2,31 @@
   "userId": "A55RiEE855opqeDtWhAz",
   "uploads": [
     {
+      "id": "community_1768934513478_047lf965o",
+      "title": "I/O opeartions",
+      "description": "Community Contribution",
+      "organization": {
+        "primaryPath": "subject",
+        "subjectPath": {
+          "subject": "Community",
+          "coreTopic": "General",
+          "subtopic": "Uploads",
+          "resourceTitle": "I/O opeartions"
+        }
+      },
+      "uploadedBy": "D.K Maity",
+      "uploaderEmail": "dk.maity@aot.edu.in",
+      "uploadedAt": "2026-01-20T18:41:53.478Z",
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "tags": [
+        "Community",
+        "Upload"
+      ],
+      "level": "Beginner"
+    },
+    {
       "id": "community_1768934259016_s0jgonjrp",
       "title": "DFS",
       "description": "Community Contribution",
