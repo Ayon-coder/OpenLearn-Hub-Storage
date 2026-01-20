@@ -1,6 +1,32 @@
 {
   "userId": "A55RiEE855opqeDtWhAz",
-  "uploads": [],
+  "uploads": [
+    {
+      "id": "community_1768933906138_srca67hng",
+      "title": "B + Tree",
+      "description": "Community Contribution",
+      "organization": {
+        "primaryPath": "subject",
+        "subjectPath": {
+          "subject": "Community",
+          "coreTopic": "General",
+          "subtopic": "Uploads",
+          "resourceTitle": "B + Tree"
+        }
+      },
+      "uploadedBy": "D.K Maity",
+      "uploaderEmail": "dk.maity@aot.edu.in",
+      "uploadedAt": "2026-01-20T18:31:46.138Z",
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "tags": [
+        "Community",
+        "Upload"
+      ],
+      "level": "Beginner"
+    }
+  ],
   "downloads": [],
   "createdAt": "2026-01-20T18:29:57.427Z",
   "subscriptions": [
