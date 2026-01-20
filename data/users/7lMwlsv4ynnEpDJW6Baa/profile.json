@@ -1,6 +1,33 @@
 {
   "userId": "7lMwlsv4ynnEpDJW6Baa",
-  "uploads": [],
+  "uploads": [
+    {
+      "id": "community_1768923506103_nxaoxr0ir",
+      "title": "Limit convergence",
+      "description": "Community Contribution",
+      "organization": {
+        "primaryPath": "subject",
+        "subjectPath": {
+          "subject": "Community",
+          "coreTopic": "General",
+          "subtopic": "Uploads",
+          "resourceTitle": "Limit convergence"
+        }
+      },
+      "uploadedBy": "D.K MAITY",
+      "uploaderEmail": "dk.maity@aot.edu.in",
+      "uploadedAt": "2026-01-20T15:38:26.103Z",
+      "views": 0,
+      "likes": 0,
+      "downloads": 0,
+      "tags": [
+        "Community",
+        "Upload"
+      ],
+      "level": "Beginner"
+    }
+  ],
   "downloads": [],
-  "createdAt": "2026-01-20T15:37:33.431Z"
+  "createdAt": "2026-01-20T15:37:33.431Z",
+  "subscriptions": []
 }
