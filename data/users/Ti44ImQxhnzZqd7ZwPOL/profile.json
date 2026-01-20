@@ -2,5 +2,13 @@
   "userId": "Ti44ImQxhnzZqd7ZwPOL",
   "uploads": [],
   "downloads": [],
-  "createdAt": "2026-01-20T18:15:11.727Z"
+  "createdAt": "2026-01-20T18:15:11.727Z",
+  "subscriptions": [
+    {
+      "id": "sub_1768933209559_umx6p0m4f",
+      "userId": "Ti44ImQxhnzZqd7ZwPOL",
+      "creatorId": "creator_abdul_bari",
+      "followedAt": "2026-01-20T18:20:09.559Z"
+    }
+  ]
 }
