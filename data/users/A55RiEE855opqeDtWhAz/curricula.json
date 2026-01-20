@@ -1,0 +1,245 @@
+[
+  {
+    "id": "curriculum_1768933991865_xkdhy91me",
+    "userId": "A55RiEE855opqeDtWhAz",
+    "formData": {
+      "learning_goal": "Web Development",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Node.js"
+      ],
+      "prior_knowledge": "basics of html",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Web Development",
+        "complexity_level": "Low"
+      },
+      "student_profile": {
+        "summary": "The student is a beginner looking to learn Web Development with a focus on Node.js.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts in Web Development and Node.js",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "web_dev_1",
+              "title": "Introduction to Web Development",
+              "description": "Basic concepts of Web Development",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "web-dev-introduction",
+                "subtopic_slugs": [
+                  "html",
+                  "css",
+                  "javascript"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "web development",
+                  "beginner"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Introduction%20to%20Web%20Development%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Introduction%20to%20Web%20Development%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Introduction%20to%20Web%20Development",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand basic web development concepts",
+                "Learn HTML, CSS, and JavaScript basics"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is HTML?",
+                  "options": [
+                    "A. Styling language",
+                    "B. Markup language",
+                    "C. Scripting language"
+                  ],
+                  "correct_answer": "B",
+                  "explanation": "HTML stands for HyperText Markup Language."
+                }
+              ]
+            },
+            {
+              "course_id": "node_js_1",
+              "title": "Node.js Basics",
+              "description": "Introduction to Node.js and its ecosystem",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "node-js-basics",
+                "subtopic_slugs": [
+                  "node.js",
+                  "npm"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "node.js",
+                  "beginner"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Node.js%20Basics%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Node.js%20Basics%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Node.js%20Basics",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand Node.js basics",
+                "Learn how to set up a Node.js project"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Node.js?",
+                  "options": [
+                    "A. A JavaScript framework",
+                    "B. A JavaScript runtime environment",
+                    "C. A web browser"
+                  ],
+                  "correct_answer": "B",
+                  "explanation": "Node.js is a JavaScript runtime environment."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Building projects and understanding backend development with Node.js",
+          "courses": [
+            {
+              "course_id": "web_1",
+              "title": "React Hooks Complete Tutorial",
+              "description": "Learn React Hooks for building dynamic user interfaces",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "react-hooks",
+                "subtopic_slugs": [
+                  "react",
+                  "hooks"
+                ],
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "react",
+                  "hooks"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_1",
+                "validation_status": "available",
+                "matched_content_title": "React Hooks Complete Tutorial",
+                "content_url": "/notes/web_1"
+              },
+              "learning_outcomes": [
+                "Learn React Hooks",
+                "Build dynamic user interfaces"
+              ],
+              "quiz_questions": []
+            },
+            {
+              "course_id": "cloud_1",
+              "title": "Docker for Beginners",
+              "description": "Learn Docker basics for containerization",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "docker-basics",
+                "subtopic_slugs": [
+                  "docker",
+                  "containerization"
+                ],
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "docker",
+                  "beginner"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "cloud_1",
+                "validation_status": "available",
+                "matched_content_title": "Docker for Beginners",
+                "content_url": "/notes/cloud_1"
+              },
+              "learning_outcomes": [
+                "Understand Docker basics",
+                "Learn containerization"
+              ],
+              "quiz_questions": []
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Advanced Node.js topics and full-stack development",
+          "courses": [
+            {
+              "course_id": "web_2",
+              "title": "Next.js 14 Crash Course",
+              "description": "Learn Next.js for building full-stack applications",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "next-js",
+                "subtopic_slugs": [
+                  "next.js",
+                  "full-stack"
+                ],
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "next.js",
+                  "full-stack"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "web_2",
+                "validation_status": "available",
+                "matched_content_title": "Next.js 14 Crash Course",
+                "content_url": "/notes/web_2"
+              },
+              "learning_outcomes": [
+                "Learn Next.js",
+                "Build full-stack applications"
+              ],
+              "quiz_questions": []
+            }
+          ]
+        }
+      }
+    },
+    "createdAt": "2026-01-20T18:33:11.865Z",
+    "updatedAt": "2026-01-20T18:33:11.865Z"
+  }
+]
