@@ -2,5 +2,13 @@
   "userId": "xCFfVhqPiOho80Gk67c8",
   "uploads": [],
   "downloads": [],
-  "createdAt": "2026-01-21T17:38:16.553Z"
+  "createdAt": "2026-01-21T17:38:16.553Z",
+  "subscriptions": [
+    {
+      "id": "sub_1769017145508_m1btozet0",
+      "userId": "xCFfVhqPiOho80Gk67c8",
+      "creatorId": "creator_vikram_singh",
+      "followedAt": "2026-01-21T17:39:05.508Z"
+    }
+  ]
 }
