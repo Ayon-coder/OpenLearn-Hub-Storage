@@ -1,5 +1,237 @@
 [
   {
+    "id": "curriculum_1769419902052_93mah8j3l",
+    "userId": "A55RiEE855opqeDtWhAz",
+    "formData": {
+      "learning_goal": "Machine Learning",
+      "current_level": "Beginner",
+      "focus_areas": [
+        "Fundamentals"
+      ],
+      "prior_knowledge": "Basics numpy",
+      "time_commitment": "10-20 hours/week",
+      "learning_objectives": "Get a job",
+      "learning_style": "mixed"
+    },
+    "curriculum": {
+      "learning_goal_analysis": {
+        "detected_domain": "computer-science",
+        "primary_topic": "Machine Learning",
+        "complexity_level": "Medium"
+      },
+      "student_profile": {
+        "summary": "The student wants to learn the fundamentals of Machine Learning at a beginner level.",
+        "recommended_start_tier": "beginner",
+        "estimated_weeks": 12,
+        "weekly_hours": 10
+      },
+      "curriculum": {
+        "beginner": {
+          "tier_description": "Foundational concepts in Machine Learning",
+          "total_estimated_hours": 40,
+          "courses": [
+            {
+              "course_id": "ml_intro",
+              "title": "Introduction to Machine Learning",
+              "description": "Basic concepts and terminology of Machine Learning",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "machine-learning-intro",
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "machine learning",
+                  "basics"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Introduction%20to%20Machine%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Introduction%20to%20Machine%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Introduction%20to%20Machine%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand the basics of Machine Learning",
+                "Familiarity with ML terminology"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is Machine Learning?",
+                  "options": [
+                    "A type of AI",
+                    "A type of data analysis"
+                  ],
+                  "correct_answer": "A type of AI",
+                  "explanation": "..."
+                }
+              ]
+            },
+            {
+              "course_id": "python_for_ml",
+              "title": "Loops",
+              "description": "Python basics for Machine Learning",
+              "position": 2,
+              "matching_criteria": {
+                "topic_slug": "python-for-ml",
+                "difficulty_level": "beginner",
+                "keywords": [
+                  "python",
+                  "machine learning"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": "course_1768922715304_6r4aesdob",
+                "validation_status": "available",
+                "matched_content_title": "Loops",
+                "content_url": "/notes/course_1768922715304_6r4aesdob"
+              },
+              "learning_outcomes": [
+                "Python basics for ML",
+                "Data structures and file operations"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a Python list?",
+                  "options": [
+                    "A data structure",
+                    "A variable"
+                  ],
+                  "correct_answer": "A data structure",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "intermediate": {
+          "tier_description": "Practical Machine Learning applications",
+          "courses": [
+            {
+              "course_id": "ml_practical",
+              "title": "Practical Machine Learning",
+              "description": "Hands-on Machine Learning projects",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "practical-machine-learning",
+                "difficulty_level": "intermediate",
+                "keywords": [
+                  "machine learning",
+                  "projects"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Practical%20Machine%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Practical%20Machine%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Practical%20Machine%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Apply ML concepts to real-world problems",
+                "Build ML models"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a confusion matrix?",
+                  "options": [
+                    "A type of ML model",
+                    "A metric for evaluating ML models"
+                  ],
+                  "correct_answer": "A metric for evaluating ML models",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        },
+        "advanced": {
+          "tier_description": "Specialized Machine Learning topics",
+          "courses": [
+            {
+              "course_id": "ml_advanced",
+              "title": "Advanced Machine Learning",
+              "description": "Deep learning, reinforcement learning, etc.",
+              "position": 1,
+              "matching_criteria": {
+                "topic_slug": "advanced-machine-learning",
+                "difficulty_level": "advanced",
+                "keywords": [
+                  "deep learning",
+                  "reinforcement learning"
+                ],
+                "domain": "computer-science",
+                "matched_content_id": null,
+                "validation_status": "alternative",
+                "note": "Not available on OpenLearn Hub - External resources suggested",
+                "external_links": [
+                  {
+                    "platform": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=Advanced%20Machine%20Learning%20tutorial",
+                    "icon": "youtube"
+                  },
+                  {
+                    "platform": "Coursera",
+                    "url": "https://www.coursera.org/search?query=Advanced%20Machine%20Learning%20tutorial",
+                    "icon": "graduation-cap"
+                  },
+                  {
+                    "platform": "freeCodeCamp",
+                    "url": "https://www.freecodecamp.org/news/search/?query=Advanced%20Machine%20Learning",
+                    "icon": "code"
+                  }
+                ]
+              },
+              "learning_outcomes": [
+                "Understand advanced ML concepts",
+                "Apply them to complex problems"
+              ],
+              "quiz_questions": [
+                {
+                  "question": "What is a neural network?",
+                  "options": [
+                    "A type of ML model",
+                    "A type of data structure"
+                  ],
+                  "correct_answer": "A type of ML model",
+                  "explanation": "..."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "createdAt": "2026-01-26T09:31:42.052Z",
+    "updatedAt": "2026-01-26T09:31:42.052Z"
+  },
+  {
     "id": "curriculum_1768933991865_xkdhy91me",
     "userId": "A55RiEE855opqeDtWhAz",
     "formData": {
